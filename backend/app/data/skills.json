@@ -1,0 +1,88 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Programming Languages",
+      "related_roles": ["ai-engineer", "machine-learning-engineer", "data-scientist", "data-engineer", "software-engineer"],
+      "importance": "Critical",
+      "difficulty": "Easy to Moderate"
+    },
+    {
+      "name": "JavaScript / TypeScript",
+      "category": "Programming Languages",
+      "related_roles": ["software-engineer", "ui-ux-designer"],
+      "importance": "Critical",
+      "difficulty": "Moderate"
+    },
+    {
+      "name": "SQL",
+      "category": "Databases & Storage",
+      "related_roles": ["data-engineer", "data-scientist", "business-analyst", "software-engineer"],
+      "importance": "Critical",
+      "difficulty": "Easy to Moderate"
+    },
+    {
+      "name": "Data Structures & Algorithms (DSA)",
+      "category": "Computer Science Foundations",
+      "related_roles": ["software-engineer", "machine-learning-engineer", "ai-engineer"],
+      "importance": "Critical",
+      "difficulty": "Hard"
+    },
+    {
+      "name": "Docker & Containers",
+      "category": "DevOps & Cloud",
+      "related_roles": ["devops-engineer", "cloud-engineer", "ai-engineer", "software-engineer"],
+      "importance": "High",
+      "difficulty": "Moderate"
+    },
+    {
+      "name": "Kubernetes",
+      "category": "DevOps & Cloud",
+      "related_roles": ["devops-engineer", "cloud-engineer"],
+      "importance": "High",
+      "difficulty": "Hard"
+    },
+    {
+      "name": "LangChain & RAG",
+      "category": "Generative AI",
+      "related_roles": ["ai-engineer"],
+      "importance": "Critical",
+      "difficulty": "Moderate"
+    },
+    {
+      "name": "PyTorch / TensorFlow",
+      "category": "Machine Learning",
+      "related_roles": ["ai-engineer", "machine-learning-engineer"],
+      "importance": "High",
+      "difficulty": "Hard"
+    },
+    {
+      "name": "React / Next.js",
+      "category": "Frontend Development",
+      "related_roles": ["software-engineer"],
+      "importance": "High",
+      "difficulty": "Moderate"
+    },
+    {
+      "name": "Figma",
+      "category": "UI/UX Design",
+      "related_roles": ["ui-ux-designer", "product-manager"],
+      "importance": "Critical",
+      "difficulty": "Easy to Moderate"
+    },
+    {
+      "name": "Network Security & Cryptography",
+      "category": "Cybersecurity",
+      "related_roles": ["cybersecurity-analyst"],
+      "importance": "Critical",
+      "difficulty": "Hard"
+    },
+    {
+      "name": "Power BI / Tableau",
+      "category": "Business Intelligence",
+      "related_roles": ["business-analyst", "data-scientist"],
+      "importance": "High",
+      "difficulty": "Easy to Moderate"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cert-aws-ccp",
+    "name": "AWS Certified Cloud Practitioner (CLF-C02)",
+    "issuer": "Amazon Web Services",
+    "type": "Industry",
+    "cost_type": "Paid ($100)",
+    "roi_rating": 94,
+    "recommended_for": ["cloud-engineer", "devops-engineer", "software-engineer"],
+    "preparation_time": "3 - 4 weeks",
+    "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+    "key_topics": ["AWS Cloud Concepts", "Security & Compliance", "Cloud Technology & Services", "Billing & Pricing"]
+  },
+  {
+    "id": "cert-aws-saa",
+    "name": "AWS Certified Solutions Architect – Associate (SAA-C03)",
+    "issuer": "Amazon Web Services",
+    "type": "Industry",
+    "cost_type": "Paid ($150)",
+    "roi_rating": 98,
+    "recommended_for": ["cloud-engineer", "devops-engineer"],
+    "preparation_time": "6 - 8 weeks",
+    "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+    "key_topics": ["Resilient Architectures", "High-Performing Architectures", "Secure Applications", "Cost-Optimized Architectures"]
+  },
+  {
+    "id": "cert-gcp-ace",
+    "name": "Google Cloud Associate Cloud Engineer",
+    "issuer": "Google Cloud",
+    "type": "Industry",
+    "cost_type": "Paid ($125)",
+    "roi_rating": 92,
+    "recommended_for": ["cloud-engineer", "data-engineer", "ai-engineer"],
+    "preparation_time": "4 - 6 weeks",
+    "url": "https://cloud.google.com/learn/certification/associate-cloud-engineer",
+    "key_topics": ["Setting up Cloud Solution Environment", "Planning & Configuring Solutions", "Deploying & Implementing", "Ensuring Operations"]
+  },
+  {
+    "id": "cert-meta-frontend",
+    "name": "Meta Front-End Developer Professional Certificate",
+    "issuer": "Meta / Coursera",
+    "type": "Industry / Coursework",
+    "cost_type": "Free Audit / Paid Cert",
+    "roi_rating": 90,
+    "recommended_for": ["software-engineer", "ui-ux-designer"],
+    "preparation_time": "2 - 3 months",
+    "url": "https://www.coursera.org/professional-certificates/meta-front-end-developer",
+    "key_topics": ["HTML/CSS", "JavaScript & Version Control", "React Basics & Advanced", "UI/UX Principles", "Capstone Project"]
+  },
+  {
+    "id": "cert-dl-spec",
+    "name": "Deep Learning Specialization",
+    "issuer": "DeepLearning.AI (Andrew Ng)",
+    "type": "Industry Standard",
+    "cost_type": "Free Audit / Financial Aid",
+    "roi_rating": 96,
+    "recommended_for": ["ai-engineer", "machine-learning-engineer"],
+    "preparation_time": "2 - 3 months",
+    "url": "https://www.deeplearning.ai/courses/deep-learning-specialization/",
+    "key_topics": ["Neural Networks & Deep Learning", "Hyperparameter Tuning", "Structuring ML Projects", "CNNs", "Sequence Models & Attention"]
+  },
+  {
+    "id": "cert-google-data",
+    "name": "Google Data Analytics Professional Certificate",
+    "issuer": "Google / Coursera",
+    "type": "Industry / Coursework",
+    "cost_type": "Free Audit / Paid Cert",
+    "roi_rating": 89,
+    "recommended_for": ["data-scientist", "business-analyst"],
+    "preparation_time": "2 - 3 months",
+    "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "key_topics": ["Data Foundations", "Ask Questions to Make Data-Driven Decisions", "Data Cleaning", "R Programming", "Tableau"]
+  },
+  {
+    "id": "cert-cka",
+    "name": "Certified Kubernetes Administrator (CKA)",
+    "issuer": "Cloud Native Computing Foundation (CNCF)",
+    "type": "Industry Standard",
+    "cost_type": "Paid ($395)",
+    "roi_rating": 97,
+    "recommended_for": ["devops-engineer", "cloud-engineer"],
+    "preparation_time": "2 - 3 months",
+    "url": "https://www.cncf.io/certification/cka/",
+    "key_topics": ["Storage", "Troubleshooting", "Workloads & Scheduling", "Cluster Architecture", "Services & Networking"]
+  },
+  {
+    "id": "cert-security-plus",
+    "name": "CompTIA Security+ (SY0-701)",
+    "issuer": "CompTIA",
+    "type": "Industry Standard",
+    "cost_type": "Paid ($392)",
+    "roi_rating": 93,
+    "recommended_for": ["cybersecurity-analyst"],
+    "preparation_time": "6 - 8 weeks",
+    "url": "https://www.comptia.org/certifications/security",
+    "key_topics": ["General Security Concepts", "Threats, Vulnerabilities & Mitigations", "Security Architecture", "Security Operations"]
+  },
+  {
+    "id": "cert-fcc-fcc",
+    "name": "freeCodeCamp Responsive Web Design & JavaScript Algorithms",
+    "issuer": "freeCodeCamp",
+    "type": "Free",
+    "cost_type": "100% Free",
+    "roi_rating": 88,
+    "recommended_for": ["software-engineer"],
+    "preparation_time": "4 - 6 weeks",
+    "url": "https://www.freecodecamp.org/learn",
+    "key_topics": ["HTML5/CSS3", "Flexbox & CSS Grid", "JS Data Structures", "DOM Manipulation", "OOP & Functional Programming"]
+  },
+  {
+    "id": "cert-kaggle-ml",
+    "name": "Kaggle Micro-Courses (Python, Intro to ML, Pandas)",
+    "issuer": "Kaggle",
+    "type": "Free",
+    "cost_type": "100% Free",
+    "roi_rating": 86,
+    "recommended_for": ["machine-learning-engineer", "data-scientist"],
+    "preparation_time": "1 - 2 weeks",
+    "url": "https://www.kaggle.com/learn",
+    "key_topics": ["Exploratory Data Analysis", "Feature Engineering", "Decision Trees & Random Forests", "Cross-Validation"]
+  }
+]
